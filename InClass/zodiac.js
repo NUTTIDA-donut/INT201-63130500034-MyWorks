@@ -3,37 +3,37 @@ function zodiac(Year) {
     switch (Year % 12) {
         case 0:
             Zodiac = "monkey";
-            break;
+            break
         case 1:
             Zodiac = "rooster";
-            break;
+            break
         case 2:
             Zodiac = "dog";
-            break;
+            break
         case 3:
             Zodiac = "pig";
-            break;
+            break
         case 4:
             Zodiac = "rat";
-            break;
+            break
         case 5:
             Zodiac = "ox";
-            break;
+            break
         case 6:
             Zodiac = "tiger";
-            break;
+            break
         case 7:
             Zodiac = "rabbit";
-            break;
+            break
         case 8:
             Zodiac = "dragon";
-            break;
+            break
         case 9:
             Zodiac = "snake";
-            break;
+            break
         case 10:
             Zodiac = "horse";
-            break;
+            break
         case 11:
             Zodiac = "sheep";
     }
